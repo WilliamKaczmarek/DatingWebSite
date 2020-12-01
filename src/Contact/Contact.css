@@ -1,0 +1,39 @@
+.title-Contact
+{
+     font-weight: 700;
+     font-size: 70px;
+     color: #777;
+     text-shadow: 3px 3px 2px black;
+     text-transform: uppercase;
+}
+.presentation {
+    background-color: rgba(250,250,255, .8);
+    margin: 5% 2% 2%;
+    padding: 1%;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.col {
+    padding: 5px;
+}
+
+.description-Contact {
+  font-weight: 500;
+  font-size: 30px;
+  color: #f38695;
+  display: block;
+  margin-top: 5px;
+}
+
+.titre-Contact {
+ 	margin: 0;
+   padding: 0;
+   font-weight: 650;
+   font-size: 24px;
+   color: #777;
+}
+
+.align-img{
+  margin-left: 10px;
+}
